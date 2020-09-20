@@ -1,0 +1,24 @@
+{
+  "name": "testGit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "addedFromGithub.js",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KridiRamilli/gitTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KridiRamilli/gitTest/issues"
+  },
+  "homepage": "https://github.com/KridiRamilli/gitTest#readme"
+}
